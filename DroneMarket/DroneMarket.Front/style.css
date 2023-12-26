@@ -3,11 +3,7 @@
     Background-position:center;
     Background-size:cover;
     min-height: 855px;
-    
-    
 }
-
-
 
 
 a {
@@ -25,7 +21,7 @@ a {
 }
 
 .navbar-brand {
-    font-family: 'Raleway';
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 30.0623px;
@@ -36,7 +32,7 @@ a {
 
 
 .nav-link {
-    font-family: 'Raleway';
+    font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -50,7 +46,7 @@ a {
 }
 
 .contlink {
-font-family: 'Raleway';
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 16px;
@@ -80,7 +76,7 @@ padding: 12px 24px;
 }
 
 .txtdiv2 h5 {
-font-family: 'Raleway';
+font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: normal;
 font-weight: 700;
 font-size: 48px;
@@ -90,7 +86,7 @@ color: #4B4B4B;
 }
 
 .a {
-font-family: 'Raleway';
+font-family: serif;
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -147,7 +143,7 @@ padding-top: 24px;
 }
 
 .b {
-font-family: 'Raleway';
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -244,7 +240,6 @@ padding-top: 100px;
 
 .txtdiv5 {
     display: flex;
-    flex-wrap: wrap;
     padding-top: 200px;
     text-align: center;
     justify-content: center;
@@ -257,7 +252,7 @@ padding-top: 100px;
 }
 
 .txtdiv5 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -278,7 +273,6 @@ background-color: #F3F3F3;
 }
 
 .txtdiv7 h5 {
-font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
 font-size: 20px;
@@ -291,7 +285,6 @@ padding-left: 20px;
 }
 
 .txtdiv7 h4 {
-    font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -303,7 +296,7 @@ padding-left: 20px;
 }
 
 .txtdiv7 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -313,7 +306,7 @@ padding-top: 30px;
 }
 
 .read4 h6 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -396,7 +389,7 @@ padding-top: 60px;
 }
 
 .cn {
-    font-family: 'Roboto';
+    font-family: poppins-bold;
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
@@ -405,7 +398,7 @@ padding-top: 60px;
 }
 
 .pcn {
-font-family: 'Roboto';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -414,7 +407,7 @@ color: #000000;
 }
 
 .act {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -446,7 +439,7 @@ color: #000000;
 }
 
 .txtdiv9 h5 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -457,7 +450,7 @@ color: #DF8928;
 }
 
 .txtdiv9 h4 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 48px;
@@ -468,7 +461,7 @@ padding-top: 20px;
 }
 
 .txtdiv9 h6 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -479,7 +472,7 @@ padding-top: 40px;
 }
 
 .txtdiv9 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -561,7 +554,7 @@ padding-top: 10px;
 }
 
 .txtdiv13 h5 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 48px;
@@ -572,7 +565,7 @@ color: #4B4B4B;
 }
 
 .txtdiv13 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -618,7 +611,7 @@ padding-top: 24px;
 }
 
 .txtdiv15 h5{
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
@@ -628,7 +621,7 @@ color: #FCF6F0;
 }
 
 .txtdiv15 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -701,7 +694,7 @@ color: #FCF6F0;
 }
 
 .txtdiv17 h5 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 24px;
@@ -713,7 +706,7 @@ padding-top: 120px;
 }
 
 .talk {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 48px;
@@ -724,7 +717,7 @@ padding-top: 16px;
 }
 
 .email {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
@@ -735,7 +728,7 @@ padding-top: 80px;
 }
 
 .cont {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -793,7 +786,7 @@ color: #4B4B4B;
 }
 
 .read12 h1 {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 41.6831px;
@@ -809,7 +802,7 @@ padding-top: 108px;
 }
 
 .read13 p {
-font-family: 'Raleway';
+font-family: poppins;
 font-style: normal;
 font-weight: 700;
 font-size: 16px;
@@ -839,7 +832,7 @@ color: #FFFFFF;
 }
 
 .read15 p {
- font-family: 'Raleway';
+ font-family: poppins;
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
